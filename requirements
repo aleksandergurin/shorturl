@@ -1,0 +1,8 @@
+SQLAlchemy==1.1.10
+aiohttp==2.0.7
+aiopg==0.13.0
+aiohttp-middlewares==0.1.0a2
+async-timeout==1.2.1
+chardet==3.0.3
+multidict==2.1.5
+psycopg2==2.7.1
